@@ -1,2 +1,5 @@
 transformers-main filter=lfs diff=lfs merge=lfs -text
 transformer-main filter=lfs diff=lfs merge=lfs -text
+"* text=auto" 
+"*.sh text eol=lf" 
+"*.yaml text eol=lf" 
